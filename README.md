@@ -46,7 +46,7 @@ Binary search is an efficient algorithm for finding an item from a sorted list o
 
 * [x] Eases the tasks in Python
 * [x] Used In #C programming language
-* [] better than linear search in every aspect
+* [x] better than linear search in every aspect
 
 >##### Logon to the following website to know more-
 __[Cognizance2020](https://cognizance2020.github.io/post/markdown/)__
