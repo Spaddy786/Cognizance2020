@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # __*Binary Search*__
 >### __What is Binary Search?__
 ![Binary search](https://i.ytimg.com/vi/HlEz93t628E/maxresdefault.jpg)
@@ -55,5 +54,3 @@ __[Cognizance2020](https://cognizance2020.github.io/post/markdown/)__
 ---
 # __*Thank You*__
 =======
-# Task-4
->>>>>>> b1
