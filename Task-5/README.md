@@ -16,18 +16,17 @@
 &nbsp; &nbsp; &nbsp;assign digit = number % 10<br>
  &nbsp; &nbsp; &nbsp;assign cube = digit * digit * digit<br>
   &nbsp; &nbsp; &nbsp;assign sum = sum + cube<br>
-   &nbsp; &nbsp; &nbsp;assign number = number/10
-   <br>
-   End <br>
+   &nbsp; &nbsp; &nbsp;assign number = number/10 <br>
+    End <br>
  1. If sum==x 
  <br>
-  &nbsp; &nbsp; &nbsp; output "The given number is an Armstrong Number."
-    False:
-   <br>
+  &nbsp; &nbsp; &nbsp; output "The given number is an Armstrong Number."<br>
+    False:<br>
     &nbsp; &nbsp; &nbsp;output"The Given number is not an Armstrong Number."<br>
- 1. End <br>
+    
+1. End <br>
  ---
-># <span style="color:red">__Flowchart__</span>
+># <span style="color:red">Flowchart</span>
 
 ![Armstrong number!](m2.png)
 ---
