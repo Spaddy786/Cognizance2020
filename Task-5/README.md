@@ -18,8 +18,7 @@
   &nbsp; &nbsp; &nbsp;assign sum = sum + cube<br>
    &nbsp; &nbsp; &nbsp;assign number = number/10 <br>
     End <br>
- 1. If sum==x 
- <br>
+ 1. If sum==x <br>
   &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; output "The given number is an Armstrong Number."<br>
     &nbsp; &nbsp; &nbsp;False:<br>
     &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;output"The Given number is not an Armstrong Number."<br>
