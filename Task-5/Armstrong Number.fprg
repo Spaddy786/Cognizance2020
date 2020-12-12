@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="ashaarya"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2020-12-13 01:43:00 AM"/>
+        <attribute name="created" value="YXNoYWFyeWE7QVNIQUFSWUE2QkVCOzIwMjAtMTItMTM7MDE6MzM6MDQgQU07MjkzNA=="/>
+        <attribute name="edited" value="YXNoYWFyeWE7QVNIQUFSWUE2QkVCOzIwMjAtMTItMTM7MDE6NDM6MDAgQU07MTszMDM5"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="sum" type="Integer" array="False" size=""/>
+            <declare name="number" type="Integer" array="False" size=""/>
+            <declare name="cube" type="Integer" array="False" size=""/>
+            <declare name="x" type="Integer" array="False" size=""/>
+            <declare name="digit" type="Integer" array="False" size=""/>
+            <assign variable="sum" expression="0"/>
+            <output expression="&quot;Enter a Number to check if it's an Armstrong Number or not:&quot;" newline="True"/>
+            <input variable="number"/>
+            <assign variable="x" expression="number"/>
+            <while expression="number&gt;0">
+                <assign variable="digit" expression="number%10"/>
+                <assign variable="cube" expression="digit*digit*digit"/>
+                <assign variable="sum" expression="sum + cube"/>
+                <assign variable="number" expression="number/10"/>
+            </while>
+            <if expression="sum==x">
+                <then>
+                    <output expression="&quot;The given number is an Armstrong Number.&quot;" newline="True"/>
+                </then>
+                <else>
+                    <output expression="&quot;The Given number is not an Armstrong Number.&quot;" newline="True"/>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>
