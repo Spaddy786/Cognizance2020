@@ -18,14 +18,14 @@
   &nbsp; &nbsp; &nbsp;assign sum = sum + cube<br>
    &nbsp; &nbsp; &nbsp;assign number = number/10
    <br>
-   End
+   End <br>
  1. If sum==x 
  <br>
   &nbsp; &nbsp; &nbsp; output "The given number is an Armstrong Number."
-   False:
+    False:
    <br>
-    &nbsp; &nbsp; &nbsp;output"The Given number is not an Armstrong Number."
- 1. End
+    &nbsp; &nbsp; &nbsp;output"The Given number is not an Armstrong Number."<br>
+ 1. End <br>
  ---
 ># <span style="color:red">__Flowchart__</span>
 
