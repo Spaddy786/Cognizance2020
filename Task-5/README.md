@@ -24,7 +24,7 @@
     &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;output"The Given number is not an Armstrong Number."<br>
 1. End <br>
  ---
-># <span style="color:red">Flowchart</span>
+># <span style="color:red">__Flowchart__</span>
 
 ![Armstrong number!](m2.png)
 ---
