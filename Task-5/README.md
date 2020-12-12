@@ -28,7 +28,7 @@
 
 ![Armstrong number!](m2.png)
 ---
->>## __*Thank You*__
+>>## __*THANK YOU*__
 --- 
 
  
