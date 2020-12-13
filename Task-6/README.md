@@ -21,7 +21,7 @@
  1. IF sum==x <br>
  &nbsp; &nbsp; &nbsp;THEN <br>
   &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; output "The given number is an Armstrong Number."<br>
-    &nbsp; &nbsp; &nbsp;ELSE:<br>
+    &nbsp; &nbsp; &nbsp;ELSE<br>
     &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;output"The Given number is not an Armstrong Number."<br>
 1. END <br>
  ---
