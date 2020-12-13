@@ -1,4 +1,4 @@
-># <span style="color:cyan">Armstrong numbers </span>
+># __Armstrong numbers__
 ---
 ![Armstrong numbers!](https://i.ytimg.com/vi/OvANihsVDI8/maxresdefault.jpg)
 
@@ -24,7 +24,7 @@
     &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;output"The Given number is not an Armstrong Number."<br>
 1. End <br>
  ---
-># <span style="color:red">__Flowchart__</span>
+># __Flowchart__
 
 ![Armstrong number!](m2.png)
 ---
