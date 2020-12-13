@@ -1,4 +1,4 @@
-># __Armstrong numbers__
+># <span style="color:cyan">__Armstrong Numbers__</span>
 ---
 ![Armstrong numbers!](https://i.ytimg.com/vi/OvANihsVDI8/maxresdefault.jpg)
 
@@ -7,7 +7,7 @@
 
 ## **To Check whether a given number is an Armstrong Number or not**
 
-> ## __Algorithm or Pseudo Code__ -
+> ## <span style="color:green">__PSEUDO Code__</span> -
  
  1. Initialize sum = 0
  1. Read number from the user
@@ -24,7 +24,7 @@
     &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;output"The Given number is not an Armstrong Number."<br>
 1. End <br>
  ---
-># __Flowchart__
+># <span style="color:RED">__FLOWCHART__</span>
 
 ![Armstrong number!](m2.png)
 ---
